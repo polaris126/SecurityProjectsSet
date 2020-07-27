@@ -1,0 +1,10 @@
+1. microsoft application inspector: https://github.com/microsoft/ApplicationInspector  
+
+2.代码质量管理平台 Sonar: https://www.sonarqube.org/  
+
+3. .NET代码扫描Security Code Scan：https://security-code-scan.github.io/  
+
+4. python和java代码安全扫描工具Eclipse Steady ： https://github.com/eclipse/steady  
+
+5. 漏洞管理工具DefectDojo ：https://github.com/DefectDojo/django-DefectDojo  
+  漏洞管理工具jackhammer ：https://github.com/olacabs/jackhammer
